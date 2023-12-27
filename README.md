@@ -1,10 +1,6 @@
 
 # Tanvir Islam
 
-## 🌐 Socials:
-***<p align="center"> [<img width="350" src="[https://ibb.co/F6Kcqgw]">](https://www.facebook.com/groups)[<img  width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-yt.png">](https://www.youtube.com/@ProgrammingHeroCommunity) </p>***
-
-<br/>
 <br/>
 
 # 💻 Tech Stack:
