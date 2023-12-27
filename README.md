@@ -5,8 +5,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Progeammer007?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanvirislam1971) 
 
 # 💻 Tech Stack:
-## :bulb: What You Will Learn_
-
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
@@ -28,14 +26,6 @@
 
 <br />
 
-<p align="center">
-<a href="https://web.programming-hero.com/course-details">
-<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
-</a>
-</p>
-
-<br/>
-<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hacker1971&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hacker1971&theme=react&hide_border=false)<br/>
