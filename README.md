@@ -2,7 +2,10 @@
 # Tanvir Islam
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Progeammer007?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanvirislam1971) 
+***<p align="center"> [<img width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-fb.png">](https://www.facebook.com/groups/programmingherocommunity/)[<img  width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-yt.png">](https://www.youtube.com/@ProgrammingHeroCommunity) </p>***
+
+<br/>
+<br/>
 
 # 💻 Tech Stack:
 <p align="center">
