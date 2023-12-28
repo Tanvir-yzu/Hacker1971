@@ -9,6 +9,9 @@
 - I Focus on my **Problem-Solving Skill** and Trend Awareness🕵️‍♀️.
 - I 👨‍🏫Love to **Share** my **knowledge** and **experience** in **Public**.
 - Always excited and ready to **Learn New Skills👨‍🎓**.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 # 💻 Tech Stack:
 <p align="center">
