@@ -2,6 +2,13 @@
 # Tanvir Islam
 
 <br/>
+## **About me** :
+
+- I Dig up 🕵️‍♀️real-world problems🌍and **Find Solutions** for them.
+- I 😍love to **Create and modify new products** and **Projects**👨‍💻.
+- I Focus on my **Problem-Solving Skill** and Trend Awareness🕵️‍♀️.
+- I 👨‍🏫Love to **Share** my **knowledge** and **experience** in **Public**.
+- Always excited and ready to **Learn New Skills👨‍🎓**.
 
 # 💻 Tech Stack:
 <p align="center">
